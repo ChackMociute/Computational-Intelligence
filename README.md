@@ -1,2 +1,2 @@
-# Computational-Intelligence
-Repo for Computational Intelligence course
+# Computational Intelligence
+Repository used for the Computational Intelligence course
